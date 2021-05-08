@@ -12,7 +12,7 @@
 
 /* //// Background images //// */
 body {
-    background: url(images/bg-section-top-desktop-1.svg) top 1750px left 0px, url(images/bg-section-bottom-desktop-1.svg) top 2290px left 0px, url(images/bg-section-top-desktop-2.svg) top 3100px left 0px, url(images/bg-section-bottom-desktop-2.svg) top 3630px left 0px, url(images/bg-footer-top-desktop.svg) top 4220px left 0px;
+    background: url(images/bg-section-top-desktop-1.svg) top 1750px left 0px, url(images/bg-section-bottom-desktop-1.svg) top 2290px left 0px, url(images/bg-section-top-desktop-2.svg) top 3100px left 0px, url(images/bg-section-bottom-desktop-2.svg) top 3630px left 0px, url(images/bg-footer-top-desktop.svg) top 4225px left 0px;
     background-repeat: no-repeat;
 }
 
